@@ -1,6 +1,6 @@
 # Trello-Clone
 
-Checkout the Web App here : [Trello App](https://64b2ce098584bd267aa708fa--gleaming-malabi-d04251.netlify.app/)
+Checkout the Web App here : [Trello App](https://gleaming-malabi-d04251.netlify.app/)
 
 # Screenshots
 
