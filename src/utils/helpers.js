@@ -8,8 +8,14 @@ const colors = [
     'cyan',
     'purple',
     'pink',
+    'violet',
+    'indigo',
+    'rose',
+    'lightBlue',
+    'lime',
 ];
 
+//Swap function
 export function swap(arr, i, j) {
     const copy = [...arr];
     const tmp = copy[i];
